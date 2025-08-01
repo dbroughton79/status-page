@@ -13,7 +13,7 @@ status-website:
   baseUrl: /status-page
   name: IIT Service Status
   introTitle: "**IIT Service Status**"
-  introMessage: "Live updates on Microsoft 365, VPN, and internal services."
+  introMessage: "Live updates on Microsoft 365, and internal services."
   navbar:
     - title: Status
       href: /
