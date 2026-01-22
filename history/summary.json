@@ -22,17 +22,17 @@
     "url": "https://status.office365.com",
     "icon": "https://icons.duckduckgo.com/ip3/status.office365.com.ico",
     "slug": "office-365-status-page",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 264,
-    "timeDay": 463,
-    "timeWeek": 266,
-    "timeMonth": 236,
-    "timeYear": 264,
+    "time": 275,
+    "timeDay": 1073,
+    "timeWeek": 492,
+    "timeMonth": 295,
+    "timeYear": 275,
     "dailyMinutesDown": {}
   }
 ]
